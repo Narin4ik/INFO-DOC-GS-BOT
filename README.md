@@ -1,6 +1,6 @@
 # PRIVACY POLICY for "Global Security" Discord BOT
 
-**Last Updated:** [24.09.2023]
+**Last Updated:** `24.09.2023`
 
 1. **Introduction**
 The Discord bot "Global Security BOT" (hereinafter referred to as the "Bot") provides various features for security and server management on the Discord platform. We prioritize the protection of your privacy. This Privacy Policy describes how we collect, use, transmit, and store your data when using the Bot.
@@ -24,6 +24,6 @@ We retain your data only for the time necessary to achieve the purposes describe
 We reserve the right to make changes to this Privacy Policy. Any changes will be posted on this page.
 
 7. **Contact Us**
-If you have any questions or concerns regarding our Privacy Policy, please contact us at the following email address: [globalsecuritydsbot@gmail.com].
+If you have any questions or concerns regarding our Privacy Policy, please contact us at the following email address: globalsecuritydsbot@gmail.com.
 
 This Privacy Policy constitutes a legal agreement between you and the creators of the Discord bot "Global Security BOT." Please read it carefully and periodically check for updates.
