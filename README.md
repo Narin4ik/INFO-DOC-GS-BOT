@@ -24,7 +24,7 @@ We retain your data only for the time necessary to achieve the purposes describe
 We reserve the right to make changes to this Privacy Policy. Any changes will be posted on this page.
 
 7. **Contact Us**  
-If you have any questions or concerns regarding our Privacy Policy, please contact us at the following email address: globalsecuritydsbot@gmail.com.  
+If you have any questions or concerns regarding our Privacy Policy, please contact us at the following email address: glbsecurdiscordbot@gmail.com  
 
 This Privacy Policy constitutes a legal agreement between you and the creators of the Discord bot "Global Security BOT." Please read it carefully and periodically check for updates.  
 ## PRIVACY POLICY for "Global Security" Discord BOT
@@ -52,6 +52,6 @@ We retain your data only for the time necessary to achieve the purposes describe
 We reserve the right to make changes to this Privacy Policy. Any changes will be posted on this page.  
 
 7. **Contact Us**  
-If you have any questions or concerns regarding our Privacy Policy, please contact us at the following email address: globalsecuritydsbot@gmail.com.  
+If you have any questions or concerns regarding our Privacy Policy, please contact us at the following email address: glbsecurdiscordbot@gmail.com.  
 
 This Privacy Policy constitutes a legal agreement between you and the creators of the Discord bot "Global Security BOT." Please read it carefully and periodically check for updates.  
