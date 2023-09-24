@@ -7,9 +7,8 @@ The Discord bot "Global Security BOT" (hereinafter referred to as the "Bot") pro
 
 2. **Data Collection and Use**
 We collect and use certain data to ensure the proper functioning of the Bot and provide you with essential features. These types of data include:
-
-a. Identification Data: We may collect and store your Discord identification number, username, and other information necessary for authentication within the Bot.
-b. Server Data: We may access specific information about Discord servers where the Bot is installed to provide security and server management features.
+a. **Identification Data:** `We may collect and store your Discord identification number, username, and other information necessary for authentication within the Bot.`
+b. **Server Data:** `We may access specific information about Discord servers where the Bot is installed to provide security and server management features.`
 
 3. **Disclosure to Third Parties**
 We do not disclose your data to third parties without your explicit consent, except when required to fulfill legal obligations or to ensure the security and proper functioning of the Bot.
